@@ -1,4 +1,4 @@
-![Image](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
+![Developer Technology](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Freecodecamp_logo.png/320px-Freecodecamp_logo.png)
 
 <h1 align="center">Hi 👋, I'm Rini Sara Markose</h1>
 <h3 align="center">A passionate frontend developer from Kerala,India</h3>
