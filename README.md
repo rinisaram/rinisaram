@@ -1,4 +1,5 @@
-![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)
+![Image](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
+
 <h1 align="center">Hi 👋, I'm Rini Sara Markose</h1>
 <h3 align="center">A passionate frontend developer from Kerala,India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?t=st=1721028887~exp=1721032487~hmac=dce0e765aa20d5569ff5a04cd8082a2de0738a4ca7dbe262799cda1045876382&w=826">
