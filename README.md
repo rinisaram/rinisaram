@@ -1,4 +1,4 @@
-![Developer Technology](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Freecodecamp_logo.png/320px-Freecodecamp_logo.png)
+![Developer Technology](https://miro.medium.com/max/1400/0*ntjC-qeEL9YLP7jX)
 
 <h1 align="center">Hi 👋, I'm Rini Sara Markose</h1>
 <h3 align="center">A passionate frontend developer from Kerala,India</h3>
